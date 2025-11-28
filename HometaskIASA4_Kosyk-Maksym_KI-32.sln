@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HometaskIASA4_Kosyk-Maksym_KI-32", "HometaskIASA4_Kosyk-Maksym_KI-32\HometaskIASA4_Kosyk-Maksym_KI-32.csproj", "{F69EC20F-4408-4296-9871-9D8CC5F6EB0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F69EC20F-4408-4296-9871-9D8CC5F6EB0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69EC20F-4408-4296-9871-9D8CC5F6EB0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69EC20F-4408-4296-9871-9D8CC5F6EB0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69EC20F-4408-4296-9871-9D8CC5F6EB0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09ABB9DB-98B6-4E77-9032-1E804F2206C3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\Dream Machines\Desktop\C# Projects\hometask4IASA\HometaskIASA4_Kosyk-Maksym_KI-32\HometaskIASA4_Kosyk-Maksym_KI-32\bin\Debug\net8.0\HometaskIASA4_Kosyk-Maksym_KI-32.exe
+C:\Users\Dream Machines\Desktop\C# Projects\hometask4IASA\HometaskIASA4_Kosyk-Maksym_KI-32\HometaskIASA4_Kosyk-Maksym_KI-32\bin\Debug\net8.0\HometaskIASA4_Kosyk-Maksym_KI-32.deps.json
+C:\Users\Dream Machines\Desktop\C# Projects\hometask4IASA\HometaskIASA4_Kosyk-Maksym_KI-32\HometaskIASA4_Kosyk-Maksym_KI-32\bin\Debug\net8.0\HometaskIASA4_Kosyk-Maksym_KI-32.runtimeconfig.json
+C:\Users\Dream Machines\Desktop\C# Projects\hometask4IASA\HometaskIASA4_Kosyk-Maksym_KI-32\HometaskIASA4_Kosyk-Maksym_KI-32\bin\Debug\net8.0\HometaskIASA4_Kosyk-Maksym_KI-32.dll
+C:\Users\Dream Machines\Desktop\C# Projects\hometask4IASA\HometaskIASA4_Kosyk-Maksym_KI-32\HometaskIASA4_Kosyk-Maksym_KI-32\bin\Debug\net8.0\HometaskIASA4_Kosyk-Maksym_KI-32.pdb
+C:\Users\Dream Machines\Desktop\C# Projects\hometask4IASA\HometaskIASA4_Kosyk-Maksym_KI-32\HometaskIASA4_Kosyk-Maksym_KI-32\obj\Debug\net8.0\HometaskIASA4_Kosyk-Maksym_KI-32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dream Machines\Desktop\C# Projects\hometask4IASA\HometaskIASA4_Kosyk-Maksym_KI-32\HometaskIASA4_Kosyk-Maksym_KI-32\obj\Debug\net8.0\HometaskIASA4_Kosyk-Maksym_KI-32.AssemblyInfoInputs.cache
+C:\Users\Dream Machines\Desktop\C# Projects\hometask4IASA\HometaskIASA4_Kosyk-Maksym_KI-32\HometaskIASA4_Kosyk-Maksym_KI-32\obj\Debug\net8.0\HometaskIASA4_Kosyk-Maksym_KI-32.AssemblyInfo.cs
+C:\Users\Dream Machines\Desktop\C# Projects\hometask4IASA\HometaskIASA4_Kosyk-Maksym_KI-32\HometaskIASA4_Kosyk-Maksym_KI-32\obj\Debug\net8.0\HometaskIASA4_Kosyk-Maksym_KI-32.csproj.CoreCompileInputs.cache
+C:\Users\Dream Machines\Desktop\C# Projects\hometask4IASA\HometaskIASA4_Kosyk-Maksym_KI-32\HometaskIASA4_Kosyk-Maksym_KI-32\obj\Debug\net8.0\HometaskIASA4_Kosyk-Maksym_KI-32.dll
+C:\Users\Dream Machines\Desktop\C# Projects\hometask4IASA\HometaskIASA4_Kosyk-Maksym_KI-32\HometaskIASA4_Kosyk-Maksym_KI-32\obj\Debug\net8.0\refint\HometaskIASA4_Kosyk-Maksym_KI-32.dll
+C:\Users\Dream Machines\Desktop\C# Projects\hometask4IASA\HometaskIASA4_Kosyk-Maksym_KI-32\HometaskIASA4_Kosyk-Maksym_KI-32\obj\Debug\net8.0\HometaskIASA4_Kosyk-Maksym_KI-32.pdb
+C:\Users\Dream Machines\Desktop\C# Projects\hometask4IASA\HometaskIASA4_Kosyk-Maksym_KI-32\HometaskIASA4_Kosyk-Maksym_KI-32\obj\Debug\net8.0\HometaskIASA4_Kosyk-Maksym_KI-32.genruntimeconfig.cache
+C:\Users\Dream Machines\Desktop\C# Projects\hometask4IASA\HometaskIASA4_Kosyk-Maksym_KI-32\HometaskIASA4_Kosyk-Maksym_KI-32\obj\Debug\net8.0\ref\HometaskIASA4_Kosyk-Maksym_KI-32.dll

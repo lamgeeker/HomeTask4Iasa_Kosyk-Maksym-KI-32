@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HometaskIASA4_Kosyk_Maksym_KI_32
+build_property.ProjectDir = C:\Users\Dream Machines\Desktop\C# Projects\hometask4IASA\HometaskIASA4_Kosyk-Maksym_KI-32\HometaskIASA4_Kosyk-Maksym_KI-32\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
